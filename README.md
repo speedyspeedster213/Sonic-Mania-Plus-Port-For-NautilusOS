@@ -65,10 +65,20 @@ games/
 json
 
 {
+  
+  
   "name": "Sonic Mania Plus",
+  
+  
   "desc": "A browser port of Sonic Mania Plus for NautilusOS.",
+  
+  
   "icon": "fas fa-gamepad",
+  
+  
   "author": "Racine",
+  
+  
   "url": "https://your-hosted-build-url"
 }
 
