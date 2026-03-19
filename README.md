@@ -10,10 +10,15 @@ It includes a fully playable browser build, proper file structure, and metadata 
 Code
 
 games/
+ 
  └── racine/
+ 
       └── sonic-mania-plus/
+      
            ├── files/
+           
            │    └── index.html
+           
            └── info.json
 
     files/ contains the full web build of the game
